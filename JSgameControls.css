@@ -1,0 +1,17 @@
+#main {
+    position: absolute;
+    left: 400px;
+    width: 600px;
+    height: 800px;
+
+    background-image: url("pics/Space.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow:  -1px 0 rgb(195, 195, 243), 0 1px  rgb(195, 195, 243), 1px 0 rgb(195, 195, 243), 0 -1px rgb(195, 195, 243);
+}
+
+
+
+
